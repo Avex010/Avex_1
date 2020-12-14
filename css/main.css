@@ -1,6 +1,6 @@
 @font-face{
     font-family: "HelveticaNeueLTProLt";
-    src: url(../fonts/HelveticaNeueLTProLt.otf) format("opentype");
+    src: url(../font/HelveticaNeueLTProLt.otf) format("opentype");
 }
 @font-face{
     font-family: "HelveticaNeueLTProMd";
@@ -164,4 +164,5 @@ body{
     letter-spacing: 0.02em;
     color: #b7b7b7;
 }
+
 
